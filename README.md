@@ -1,4 +1,4 @@
-## Hi!  I'm Michael Dunn-O'Connor
+## Hi!  I'm Michael Dunn-OConnor
 
 As a software engineer and technical educator, I bridge the gap between emerging technology and the developer community. I specialize in creating engaging technical content, including articles and videos, derived directly from software engineer feedback.
 
